@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    
+}
+
+body{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(/Notes.jpg);
+    background-size: cover;
+    position: relative;
+}
+h1 span{
+    color: yellow;
+}
+
+.Nname{
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: xx-large;
+}
+.R20 {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 18%;
+    left: 8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: x-large;
+}
