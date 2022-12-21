@@ -37,3 +37,402 @@ h1 span{
     text-align: center;
     font-size: x-large;
 }
+.civil a{ 
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 23%;
+    left: 8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+}
+.civil a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.civil a:hover:after{
+    width: 100%;
+} 
+.CSE a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 28%;
+    left: 8.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.CSE a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.CSE a:hover:after{
+    width: 100%;
+} 
+.ECE a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 33%;
+    left: 7.9%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.ECE a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.ECE a:hover:after{
+    width: 100%;
+} 
+.EEE a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 38%;
+    left: 7.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.EEE a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.EEE a:hover:after{
+    width: 100%;
+} 
+.MECH a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 43%;
+    left: 8.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.MECH a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.MECH a:hover:after{
+    width: 100%;
+}
+
+
+
+
+.R19 {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 54%;
+    left: 8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: x-large;
+}
+.civil9 a{ 
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 59%;
+    left: 8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+}
+.civil9 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.civil9 a:hover:after{
+    width: 100%;
+} 
+.CSE9 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 64%;
+    left: 8.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.CSE9 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.CSE9 a:hover:after{
+    width: 100%;
+} 
+.ECE9 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 69%;
+    left: 7.9%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.ECE9 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.ECE9 a:hover:after{
+    width: 100%;
+} 
+.EEE9 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 74%;
+    left: 7.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.EEE9 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.EEE9 a:hover:after{
+    width: 100%;
+} 
+.MECH9 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 79%;
+    left: 8.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.MECH9 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.MECH9 a:hover:after{
+    width: 100%;
+} 
+
+
+
+.R18 {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 90%;
+    left: 8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: x-large;
+}
+.civil8 a{ 
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 95%;
+    left: 8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+}
+.civil8 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.civil8 a:hover:after{
+    width: 100%;
+} 
+.CSE8 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 100%;
+    left: 8.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.CSE8 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.CSE8 a:hover:after{
+    width: 100%;
+} 
+.ECE8 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 105%;
+    left: 7.9%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.ECE8 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.ECE8 a:hover:after{
+    width: 100%;
+} 
+.EEE8 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 110%;
+    left: 7.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.EEE8 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.EEE8 a:hover:after{
+    width: 100%;
+} 
+.MECH8 a{
+    width: 90;
+    color:rgb(109, 176, 230);
+    position: absolute;
+    top: 115%;
+    left: 8.8%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+.MECH8 a::after{
+    content: '';
+    display: block;
+    margin: auto;
+    height: 3px;
+    width: 0%;
+    background: #f1f111;
+    transition: .6s;
+
+}
+.MECH8 a:hover:after{
+    width: 100%;
+}   
